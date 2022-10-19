@@ -2,4 +2,4 @@
 Repositório para documentar meus estudos em Java!
 
 # Fundamentos em java
-##Sintaxe básica
+## Sintaxe básica
